@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x369A7C262B5a490bd88c8E1Eba429296126d627D",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x369A7C262B5a490bd88c8E1Eba429296126d627D",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 137
+  },
+  "NFT_NAME": "Cutie Corgis",
+  "SYMBOL": "CCNFT",
+  "MAX_SUPPLY": 2420,
+  "WEI_COST": 35000000000000000,
+  "DISPLAY_COST": 0.035,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cutie-corgis-pwjltc2sdx",
+  "SHOW_BACKGROUND": true
+}
